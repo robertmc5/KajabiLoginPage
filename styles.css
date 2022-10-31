@@ -1,0 +1,35 @@
+/* Global */
+* {
+  margin: 0;
+}
+
+html, body {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #f1f1f1;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Elements */
+
+
+/* Classes and IDs */
+.panel {
+  width: 320px;
+  height: 640px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.co-logo {
+  width: 95px;
+}
+
